@@ -3,7 +3,7 @@
     {
       "id": "tx-0001",
       "userId": 3,
-      "date": "2025-04-12T14:44:40.6160000",
+      "date": "2025-04-12T14:44:40.6160000Z",
       "amount": -245.67,
       "currency": "ZAR",
       "description": "Groceries",
@@ -14,7 +14,7 @@
     {
       "id": "tx-0002",
       "userId": 1,
-      "date": "2025-06-03T14:14:44:40.6160000",
+      "date": "2025-06-03T14:44:40.6160000Z",
       "amount": 8200.00,
       "currency": "ZAR",
       "description": "Salary",
@@ -25,7 +25,7 @@
     {
       "id": "tx-0003",
       "userId": 5,
-      "date": "2025-01-18T14:14:44:40.6160000",
+      "date": "2025-01-18T14:44:40.6160000Z",
       "amount": -89.99,
       "currency": "ZAR",
       "description": "Transport",
@@ -36,7 +36,7 @@
     {
       "id": "tx-0004",
       "userId": 2,
-      "date": "2025-03-22T14:14:44:40.6160000",
+      "date": "2025-03-22T14:44:40.6160000Z",
       "amount": -150.00,
       "currency": "ZAR",
       "description": "Dining",
@@ -47,7 +47,7 @@
     {
       "id": "tx-0005",
       "userId": 4,
-      "date": "2025-07-09T14:14:44:40.6160000",
+      "date": "2025-07-09T14:44:40.6160000Z",
       "amount": -320.45,
       "currency": "ZAR",
       "description": "Shopping",
@@ -58,7 +58,7 @@
     {
       "id": "tx-0006",
       "userId": 2,
-      "date": "2025-02-14T14:14:44:40.6160000",
+      "date": "2025-02-14T14:44:40.6160000Z",
       "amount": -75.00,
       "currency": "ZAR",
       "description": "Health",
@@ -69,7 +69,7 @@
     {
       "id": "tx-0007",
       "userId": 1,
-      "date": "2025-05-01T14:14:44:40.6160000",
+      "date": "2025-05-01T14:44:40.6160000Z",
       "amount": -120.00,
       "currency": "ZAR",
       "description": "Entertainment",
@@ -80,7 +80,7 @@
     {
       "id": "tx-0008",
       "userId": 3,
-      "date": "2025-08-21T14:14:44:40.6160000",
+      "date": "2025-08-21T14:44:40.6160000Z",
       "amount": -450.00,
       "currency": "ZAR",
       "description": "Bills",
@@ -91,7 +91,7 @@
     {
       "id": "tx-0009",
       "userId": 5,
-      "date": "2025-03-30T14:14:44:40.6160000",
+      "date": "2025-03-30T14:44:40.6160000Z",
       "amount": -200.00,
       "currency": "ZAR",
       "description": "Travel",
@@ -102,7 +102,7 @@
     {
       "id": "tx-0010",
       "userId": 4,
-      "date": "2025-06-15T14:14:44:40.6160000",
+      "date": "2025-06-15T14:44:40.6160000Z",
       "amount": 9500.00,
       "currency": "ZAR",
       "description": "Income",
@@ -113,7 +113,7 @@
     {
       "id": "tx-0011",
       "userId": 2,
-      "date": "2025-04-05T14:14:44:40.6160000",
+      "date": "2025-04-05T14:44:40.6160000Z",
       "amount": -300.00,
       "currency": "ZAR",
       "description": "Groceries",
@@ -124,7 +124,7 @@
     {
       "id": "tx-0012",
       "userId": 1,
-      "date": "2025-07-20T14:14:44:40.6160000",
+      "date": "2025-07-20T14:44:40.6160000Z",
       "amount": -180.00,
       "currency": "ZAR",
       "description": "Dining",
@@ -135,7 +135,7 @@
     {
       "id": "tx-0013",
       "userId": 3,
-      "date": "2025-02-28T14:14:44:40.6160000",
+      "date": "2025-02-28T14:44:40.6160000Z",
       "amount": -60.00,
       "currency": "ZAR",
       "description": "Transport",
@@ -146,7 +146,7 @@
     {
       "id": "tx-0014",
       "userId": 5,
-      "date": "2025-01-10T14:14:44:40.6160000",
+      "date": "2025-01-10T14:44:40.6160000Z",
       "amount": -500.00,
       "currency": "ZAR",
       "description": "Shopping",
@@ -157,7 +157,7 @@
     {
       "id": "tx-0015",
       "userId": 4,
-      "date": "2025-03-12T14:14:44:40.6160000",
+      "date": "2025-03-12T14:44:40.6160000Z",
       "amount": -250.00,
       "currency": "ZAR",
       "description": "Health",
@@ -168,7 +168,7 @@
     {
       "id": "tx-0016",
       "userId": 2,
-      "date": "2025-05-25T14:14:44:40.6160000",
+      "date": "2025-05-25T14:44:40.6160000Z",
       "amount": -100.00,
       "currency": "ZAR",
       "description": "Entertainment",
@@ -179,7 +179,7 @@
     {
       "id": "tx-0017",
       "userId": 1,
-      "date": "2025-06-30T14:14:44:40.6160000",
+      "date": "2025-06-30T14:44:40.6160000Z",
       "amount": -400.00,
       "currency": "ZAR",
       "description": "Bills",
@@ -190,7 +190,7 @@
     {
       "id": "tx-0018",
       "userId": 3,
-      "date": "2025-07-01T14:14:44:40.6160000",
+      "date": "2025-07-01T14:44:40.6160000Z",
       "amount": -150.00,
       "currency": "ZAR",
       "description": "Travel",
@@ -201,7 +201,7 @@
     {
       "id": "tx-0019",
       "userId": 5,
-      "date": "2025-08-05T14:14:44:40.6160000",
+      "date": "2025-08-05T14:44:40.6160000Z",
       "amount": 8700.00,
       "currency": "ZAR",
       "description": "Income",
@@ -212,7 +212,7 @@
     {
       "id": "tx-0020",
       "userId": 4,
-      "date": "2025-02-18T14:14:44:40.6160000",
+      "date": "2025-02-18T14:44:40.6160000Z",
       "amount": -220.00,
       "currency": "ZAR",
       "description": "Groceries",
@@ -223,7 +223,7 @@
        {
       "id": "tx-0001",
       "userId": 3,
-      "date": "2025-04-12T14:14:44:40.6160000",
+      "date": "2025-04-12T14:44:40.6160000Z",
       "amount": -245.67,
       "currency": "ZAR",
       "description": "Groceries",
@@ -234,7 +234,7 @@
     {
       "id": "tx-0002",
       "userId": 1,
-      "date": "2025-06-03T14:14:44:40.6160000",
+      "date": "2025-06-03T14:44:40.6160000Z",
       "amount": 8200.00,
       "currency": "ZAR",
       "description": "Salary",
@@ -245,7 +245,7 @@
     {
       "id": "tx-0003",
       "userId": 5,
-      "date": "2025-01-18T14:14:44:40.6160000",
+      "date": "2025-01-18T14:44:40.6160000Z",
       "amount": -89.99,
       "currency": "ZAR",
       "description": "Transport",
@@ -256,7 +256,7 @@
     {
       "id": "tx-0004",
       "userId": 2,
-      "date": "2025-03-22T14:14:44:40.6160000",
+      "date": "2025-03-22T14:44:40.6160000Z",
       "amount": -150.00,
       "currency": "ZAR",
       "description": "Dining",
@@ -267,7 +267,7 @@
     {
       "id": "tx-0005",
       "userId": 4,
-      "date": "2025-07-09T14:14:44:40.6160000",
+      "date": "2025-07-09T14:44:40.6160000Z",
       "amount": -320.45,
       "currency": "ZAR",
       "description": "Shopping",
@@ -278,7 +278,7 @@
     {
       "id": "tx-0006",
       "userId": 2,
-      "date": "2025-02-14T14:14:44:40.6160000",
+      "date": "2025-02-14T14:44:40.6160000Z",
       "amount": -75.00,
       "currency": "ZAR",
       "description": "Health",
@@ -289,7 +289,7 @@
     {
       "id": "tx-0007",
       "userId": 1,
-      "date": "2025-05-01T14:14:44:40.6160000",
+      "date": "2025-05-01T14:44:40.6160000Z",
       "amount": -120.00,
       "currency": "ZAR",
       "description": "Entertainment",
@@ -300,7 +300,7 @@
     {
       "id": "tx-0008",
       "userId": 3,
-      "date": "2025-08-21T14:14:44:40.6160000",
+      "date": "2025-08-21T14:44:40.6160000Z",
       "amount": -450.00,
       "currency": "ZAR",
       "description": "Bills",
@@ -311,7 +311,7 @@
     {
       "id": "tx-0009",
       "userId": 5,
-      "date": "2025-03-30T14:14:44:40.6160000",
+      "date": "2025-03-30T14:44:40.6160000Z",
       "amount": -200.00,
       "currency": "ZAR",
       "description": "Travel",
@@ -322,7 +322,7 @@
     {
       "id": "tx-0010",
       "userId": 4,
-      "date": "2025-06-15T14:14:44:40.6160000",
+      "date": "2025-06-15T14:44:40.6160000Z",
       "amount": 9500.00,
       "currency": "ZAR",
       "description": "Income",
@@ -333,7 +333,7 @@
     {
       "id": "tx-0011",
       "userId": 2,
-      "date": "2025-04-05T14:14:44:40.6160000",
+      "date": "2025-04-05T14:44:40.6160000Z",
       "amount": -300.00,
       "currency": "ZAR",
       "description": "Groceries",
@@ -344,7 +344,7 @@
     {
       "id": "tx-0012",
       "userId": 1,
-      "date": "2025-07-20T14:14:44:40.6160000",
+      "date": "2025-07-20T14:44:40.6160000Z",
       "amount": -180.00,
       "currency": "ZAR",
       "description": "Dining",
@@ -355,7 +355,7 @@
     {
       "id": "tx-0013",
       "userId": 3,
-      "date": "2025-02-28T14:14:44:40.6160000",
+      "date": "2025-02-28T14:44:40.6160000Z",
       "amount": -60.00,
       "currency": "ZAR",
       "description": "Transport",
@@ -366,7 +366,7 @@
     {
       "id": "tx-0014",
       "userId": 5,
-      "date": "2025-01-10T14:14:44:40.6160000",
+      "date": "2025-01-10T14:44:40.6160000Z",
       "amount": -500.00,
       "currency": "ZAR",
       "description": "Shopping",
@@ -377,7 +377,7 @@
     {
       "id": "tx-0015",
       "userId": 4,
-      "date": "2025-03-12T14:14:44:40.6160000",
+      "date": "2025-03-12T14:44:40.6160000Z",
       "amount": -250.00,
       "currency": "ZAR",
       "description": "Health",
@@ -388,7 +388,7 @@
     {
       "id": "tx-0016",
       "userId": 2,
-      "date": "2025-05-25T14:14:44:40.6160000",
+      "date": "2025-05-25T14:44:40.6160000Z",
       "amount": -100.00,
       "currency": "ZAR",
       "description": "Entertainment",
@@ -399,7 +399,7 @@
     {
       "id": "tx-0017",
       "userId": 1,
-      "date": "2025-06-30T14:14:44:40.6160000",
+      "date": "2025-06-30T14:44:40.6160000Z",
       "amount": -400.00,
       "currency": "ZAR",
       "description": "Bills",
@@ -410,7 +410,7 @@
     {
       "id": "tx-0018",
       "userId": 3,
-      "date": "2025-07-01T14:14:44:40.6160000",
+      "date": "2025-07-01T14:44:40.6160000Z",
       "amount": -150.00,
       "currency": "ZAR",
       "description": "Travel",
@@ -421,7 +421,7 @@
     {
       "id": "tx-0019",
       "userId": 5,
-      "date": "2025-08-05T14:14:44:40.6160000",
+      "date": "2025-08-05T14:44:40.6160000Z",
       "amount": 8700.00,
       "currency": "ZAR",
       "description": "Income",
@@ -432,7 +432,7 @@
     {
       "id": "tx-0020",
       "userId": 4,
-      "date": "2025-02-18T14:14:44:40.6160000",
+      "date": "2025-02-18T14:44:40.6160000Z",
       "amount": -220.00,
       "currency": "ZAR",
       "description": "Groceries",
@@ -442,7 +442,7 @@
     },{
       "id": "tx-0041",
       "userId": 1,
-      "date": "2025-03-28T14:14:44:40.6160000",
+      "date": "2025-03-28T14:44:40.6160000Z",
       "amount": -310.00,
       "currency": "ZAR",
       "description": "Shopping",
@@ -453,7 +453,7 @@
     {
       "id": "tx-0042",
       "userId": 2,
-      "date": "2025-04-22T14:14:44:40.6160000",
+      "date": "2025-04-22T14:44:40.6160000Z",
       "amount": -85.00,
       "currency": "ZAR",
       "description": "Transport",
@@ -464,7 +464,7 @@
     {
       "id": "tx-0043",
       "userId": 3,
-      "date": "2025-06-09T14:14:44:40.6160000",
+      "date": "2025-06-09T14:44:40.6160000Z",
       "amount": -120.00,
       "currency": "ZAR",
       "description": "Dining",
@@ -475,7 +475,7 @@
     {
       "id": "tx-0044",
       "userId": 4,
-      "date": "2025-07-25T14:14:44:40.6160000",
+      "date": "2025-07-25T14:44:40.6160000Z",
       "amount": -450.00,
       "currency": "ZAR",
       "description": "Bills",
@@ -486,7 +486,7 @@
     {
       "id": "tx-0045",
       "userId": 5,
-      "date": "2025-01-31T14:14:44:40.6160000",
+      "date": "2025-01-31T14:44:40.6160000Z",
       "amount": -220.00,
       "currency": "ZAR",
       "description": "Groceries",
@@ -497,7 +497,7 @@
     {
       "id": "tx-0046",
       "userId": 1,
-      "date": "2025-05-17T14:14:44:40.6160000",
+      "date": "2025-05-17T14:44:40.6160000Z",
       "amount": 8900.00,
       "currency": "ZAR",
       "description": "Income",
@@ -508,7 +508,7 @@
     {
       "id": "tx-0047",
       "userId": 2,
-      "date": "2025-02-10T14:14:44:40.6160000",
+      "date": "2025-02-10T14:44:40.6160000Z",
       "amount": -150.00,
       "currency": "ZAR",
       "description": "Health",
@@ -519,7 +519,7 @@
     {
       "id": "tx-0048",
       "userId": 3,
-      "date": "2025-03-20T14:14:44:40.6160000",
+      "date": "2025-03-20T14:44:40.6160000Z",
       "amount": -75.00,
       "currency": "ZAR",
       "description": "Entertainment",
@@ -530,7 +530,7 @@
     {
       "id": "tx-0049",
       "userId": 4,
-      "date": "2025-06-04T14:14:44:40.6160000",
+      "date": "2025-06-04T14:44:40.6160000Z",
       "amount": -380.00,
       "currency": "ZAR",
       "description": "Bills",
@@ -541,7 +541,7 @@
     {
       "id": "tx-0050",
       "userId": 5,
-      "date": "2025-08-13T14:14:44:40.6160000",
+      "date": "2025-08-13T14:44:40.6160000Z",
       "amount": -190.00,
       "currency": "ZAR",
       "description": "Travel",
@@ -552,7 +552,7 @@
     {
       "id": "tx-0051",
       "userId": 1,
-      "date": "2025-04-28T14:14:44:40.6160000",
+      "date": "2025-04-28T14:44:40.6160000Z",
       "amount": -270.00,
       "currency": "ZAR",
       "description": "Groceries",
@@ -563,7 +563,7 @@
     {
       "id": "tx-0052",
       "userId": 2,
-      "date": "2025-07-06T14:14:44:40.6160000",
+      "date": "2025-07-06T14:44:40.6160000Z",
       "amount": -180.00,
       "currency": "ZAR",
       "description": "Dining",
@@ -574,7 +574,7 @@
     {
       "id": "tx-0053",
       "userId": 3,
-      "date": "2025-02-24T14:14:44:40.6160000",
+      "date": "2025-02-24T14:44:40.6160000Z",
       "amount": -60.00,
       "currency": "ZAR",
       "description": "Transport",
@@ -585,7 +585,7 @@
     {
       "id": "tx-0054",
       "userId": 4,
-      "date": "2025-03-08T14:14:44:40.6160000",
+      "date": "2025-03-08T14:44:40.6160000Z",
       "amount": -500.00,
       "currency": "ZAR",
       "description": "Shopping",
@@ -596,7 +596,7 @@
     {
       "id": "tx-0055",
       "userId": 5,
-      "date": "2025-05-21T14:14:44:40.6160000",
+      "date": "2025-05-21T14:44:40.6160000Z",
       "amount": -250.00,
       "currency": "ZAR",
       "description": "Health",
@@ -607,7 +607,7 @@
     {
       "id": "tx-0056",
       "userId": 1,
-      "date": "2025-06-30T14:14:44:40.6160000",
+      "date": "2025-06-30T14:44:40.6160000Z",
       "amount": -100.00,
       "currency": "ZAR",
       "description": "Entertainment",
@@ -618,7 +618,7 @@
     {
       "id": "tx-0057",
       "userId": 2,
-      "date": "2025-07-18T14:14:44:40.6160000",
+      "date": "2025-07-18T14:44:40.6160000Z",
       "amount": -400.00,
       "currency": "ZAR",
       "description": "Bills",
@@ -629,7 +629,7 @@
     {
       "id": "tx-0058",
       "userId": 3,
-      "date": "2025-08-04T14:14:44:40.6160000",
+      "date": "2025-08-04T14:44:40.6160000Z",
       "amount": -150.00,
       "currency": "ZAR",
       "description": "Travel",
@@ -640,7 +640,7 @@
     {
       "id": "tx-0059",
       "userId": 4,
-      "date": "2025-01-15T14:14:44:40.6160000",
+      "date": "2025-01-15T14:44:40.6160000Z",
       "amount": 8700.00,
       "currency": "ZAR",
       "description": "Income",
@@ -651,7 +651,7 @@
     {
       "id": "tx-0060",
       "userId": 5,
-      "date": "2025-02-29T14:14:44:40.6160000",
+      "date": "2025-02-29T14:44:40.6160000Z",
       "amount": -220.00,
       "currency": "ZAR",
       "description": "Groceries",
