@@ -1,1 +1,85 @@
+{
+  "transactions": [
+    {
+      "id": "tx-001",
+      "date": "2025-09-01",
+      "amount": -50.75,
+      "currency": "USD",
+      "description": "Grocery Store",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "tx-002",
+      "date": "2025-09-02",
+      "amount": -15.00,
+      "currency": "USD",
+      "description": "Coffee",
+      "merchant": "Starbucks"
+    },
+    {
+      "id": "tx-003",
+      "date": "2025-09-03",
+      "amount": 1200.00,
+      "currency": "USD",
+      "description": "Salary Payment",
+      "merchant": "ACME Corp"
+    },
+    {
+      "id": "tx-004",
+      "date": "2025-09-04",
+      "amount": -120.30,
+      "currency": "USD",
+      "description": "Online Shopping",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "tx-005",
+      "date": "2025-09-05",
+      "amount": -75.25,
+      "currency": "USD",
+      "description": "Gas Station",
+      "merchant": "Shell"
+    },
+    {
+      "id": "tx-006",
+      "date": "2025-09-06",
+      "amount": -200.00,
+      "currency": "USD",
+      "description": "Electronics",
+      "merchant": "BestBuy"
+    },
+    {
+      "id": "tx-007",
+      "date": "2025-09-07",
+      "amount": -35.40,
+      "currency": "USD",
+      "description": "Restaurant",
+      "merchant": "Olive Garden"
+    },
+    {
+      "id": "tx-008",
+      "date": "2025-09-08",
+      "amount": -8.99,
+      "currency": "USD",
+      "description": "Music Subscription",
+      "merchant": "Spotify"
+    },
+    {
+      "id": "tx-009",
+      "date": "2025-09-09",
+      "amount": -20.00,
+      "currency": "USD",
+      "description": "Taxi Ride",
+      "merchant": "Uber"
+    },
+    {
+      "id": "tx-010",
+      "date": "2025-09-10",
+      "amount": -60.00,
+      "currency": "USD",
+      "description": "Clothing",
+      "merchant": "Zara"
+    }
+  ]
+}
 
