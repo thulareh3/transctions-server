@@ -657,6 +657,7 @@
       "description": "Groceries",
       "merchant": "Checkers",
       "category": "Groceries",
-      "bank": "Nedbank"   
+      "bank": "Nedbank" 
+    }
   ]
 }
